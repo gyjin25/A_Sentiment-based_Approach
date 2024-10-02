@@ -1,2 +1,2 @@
-# Working-Paper
-Forecasting Stock Market Volatility : Sentiment Based Approach
+# Codes For Forecasting Stock Market Volatility : A Sentiment Based Approach
+
